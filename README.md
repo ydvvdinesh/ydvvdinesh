@@ -13,8 +13,7 @@
   <em>My direction is Python Backend + AI/ML, with a growing focus on scalable systems, data engineering, and intelligent applications. I’m going deeper into open source, learning to navigate large codebases, solve real issues, write better code, and collaborate with maintainers. 
  <br>
  I’m also exploring LLMs, Agentic AI, MLOps, system design, and distributed systems while strengthening my core engineering skills.
-
- <br> Founded CodeNeuraX, a growing 7,000+ member technology community hat has organized 15+ technical events so far, built around learning, collaboration, events, and opportunities for students and developers. Alongside the community, I built and maintain the CodeNeuraX platform, working across backend development, APIs, authentication, databases, deployment, and production systems. I enjoy working with people who want to build ambitious things, solve real problems, and learn by doing. My mindset is simple: Build it. Understand it. Break it. Improve it.</em>
+ Founded CodeNeuraX, a growing 7,000+ member technology community hat has organized 15+ technical events so far, built around learning, collaboration, events, and opportunities for students and developers.
 
 </p>
 
