@@ -1,27 +1,26 @@
-<div align="center">
-
-<img src="./assets/YDVVDINESH.gif" width="100%" height="130" alt="YDVVDINESH">
-
-</div>
-
-<br>
-
-### Python Backend Engineer • AI/ML • Open Source
-
-<p>
-  <em>Building systems, learning from real codebases, and contributing to open source.</em>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=$+whoami;ydvvdinesh;AI+%7C+ML+%7C+Backend+%7C+ Engineer; Founded CodeNeuraX; Helping 7000++ Techies; Buliding Tech Communities;" />
 </p>
 
+
+## 🛠️ Ping Me Up
 <p>
   <a href="https://github.com/ydvvdinesh">
-    <img src="https://img.shields.io/badge/GitHub-ydvvdinesh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/ydvvdinesh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+<p>
+
+  <em>Building systems, Building Tech Communities, learning from real codebases, and contributing to open source.</em>
+
+</p>
+
 </div>
+
 
 ---
 
@@ -78,23 +77,9 @@ projects/
 └── experiments/
 ```
 
-I prefer projects where I can learn something deeply rather than building another tutorial clone.
-
----
-
-## 💡 Engineering Philosophy
-
 > **Understand before you modify.
 > Test before you trust.
 > Read before you rewrite.
 > Contribute before you ask.**
-
----
-
-<div align="center">
-
-### Building in public. Learning in depth. Contributing for real.
-
-**— Dinesh**
 
 </div>
