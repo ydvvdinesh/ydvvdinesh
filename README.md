@@ -88,6 +88,8 @@ projects/
 ├── APIs/
 ├── open-source/
 └── experiments/
+└── techcommunities/
+
 ```
 
 > **Understand before you modify.
