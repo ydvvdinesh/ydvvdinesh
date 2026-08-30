@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <em>Born around farms, ended up farming code.</em>
+  Born around farms, ended up farming code.
 </h1>
 
 <p align="center">
