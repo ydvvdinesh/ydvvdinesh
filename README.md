@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=700&color=F7DF1E&center=true&vCenter=true&width=900&lines=%24+whoami;ydvvdinesh;AI+%7C+ML+%7C+Backend+Engineer;Founder+%40+CodeNeuraX;7000%2B+Tech+Member;Building+Tech+Communities" />
-</p>
-
-<p>
+<p align="center>
 
   <em>Born around farms, ended up farming code.</em>
 
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=700&color=F7DF1E&center=true&vCenter=true&width=900&lines=%24+whoami;ydvvdinesh;AI+%7C+ML+%7C+Backend+Engineer;Founder+%40+CodeNeuraX;7000%2B+Tech+Member;Building+Tech+Communities" />
+</p>
+
 
 <p>
 
