@@ -15,23 +15,6 @@
  Founded CodeNeuraX, a growing 7,000+ member technology community hat has organized 15+ technical events so far, built around learning, collaboration, events, and opportunities for students and developers. 
   </em>
 </p> 
-
-## 🛠️ Ping Me Up
-<p>
-  <a href="https://github.com/ydvvdinesh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/ydvvdinesh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p>
-
-  <em>Building systems, Building Tech Communities, learning from real codebases, and contributing to open source.</em>
-
-</p>
-
 </div>
 
 
@@ -76,6 +59,16 @@
 
 
 
+## 🛠️ Ping Me Up
+<p>
+  <a href="https://github.com/ydvvdinesh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/ydvvdinesh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## 🏗️ What You'll Find Here
 
 This profile is evolving around a few core areas:
@@ -89,6 +82,7 @@ projects/
 ├── open-source/
 └── experiments/
 └── techcommunities/
+
 
 ```
 
